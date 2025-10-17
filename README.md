@@ -12,6 +12,7 @@ Hyunwoo Kim (Member, IEEE) received the B.S., M.S., and Ph.D. degrees in electri
 
 # Education
 • B.S. Hanyang University Feb. 2017\
+• M.S. Hanyang University Feb. 2019\
 • Ph.D. Hanyang University Feb. 2022\
 &nbsp; - Advisor : Professor Ju Lee\
 &nbsp; - Thesis : Design of Line-Start Synchronous Reluctance Motor Considering the Synchronization Capability
@@ -60,7 +61,6 @@ Hyunwoo Kim (Member, IEEE) received the B.S., M.S., and Ph.D. degrees in electri
 
 # Journal Papers (published and accepted) (* : Corresponding author)
 28\. Dong-woo Nam, **<ins>Hyunwoo Kim</ins>**, Min-Ki Hong, Won-Ho Kim, Ki-Deok\*, “Resistance Prediction of the Coil Pattern in a PCB Stator Axial Flux Permanent Magnet Synchronous Motor,” IEEE ACCESS, (Accepted).\
-`28\. Do-Hyeon Choi, Chaewon Jo, Hyung-Sub Han, Hyo-Gu Kim, Won-Ho Kim, **<ins>Hyunwoo Kim<ins>**\*, Design of a Six-Phase Surface Permanent Magnet Synchronous Motor with Chamfered Magnet to Reduce Cogging Torque and Torque Ripple for Large Ship Propulsion, Applied Sciences, (Accepted).\`
 27\. Seong-Hwi Kim, **<ins>Hyunwoo Kim</ins>**, Sung Gu Lee\*, “Design of PM Linear Synchronous Motor with Chamfered Teeth for Reduced Detent Force Considering Modular Connection,” IEEE ACCESS, vol. 13, Aug. 2025.\
 26\. Inyeol Yun, **<ins>Hyunwoo Kim</ins>**, Ju Lee, Sung-Gu Lee\*, “Inter-Turn Fault Diagnosis of Induction Motors Based on Current Vector Pattern Analysis in Stationary Coordinate Frame,” Applied Sciences, vol. 15, no. 15, Jul. 2025.\
 25\. **<ins>Hyunwoo Kim</ins>**\*, “Fast Analysis Method of Steady-State Performance in Synchronous Reluctance Motor with Damping Bars,” IEEE Transactions on Industrial Electronics (Early Access Article).\
