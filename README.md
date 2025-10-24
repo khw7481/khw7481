@@ -60,7 +60,7 @@ Hyunwoo Kim (Member, IEEE) received the B.S., M.S., and Ph.D. degrees in electri
 • Honor Scholarship, Hanyang University, South Korea (Mar. 2013 ~ Jun. 2013)
 
 # Journal Papers (published and accepted) (* : Corresponding author)
-29.\ Dong-woo Nam, **<ins>Hyunwoo Kim</ins>**, Min-Ki Hong, Won-Ho Kim, Ki-Deok\*, “Resistance Prediction of the Coil Pattern in a PCB Stator Axial Flux Permanent Magnet Synchronous Motor,” IEEE ACCESS, (Early Access Article).\
+29\. Dong-woo Nam, **<ins>Hyunwoo Kim</ins>**, Min-Ki Hong, Won-Ho Kim, Ki-Deok\*, “Resistance Prediction of the Coil Pattern in a PCB Stator Axial Flux Permanent Magnet Synchronous Motor,” IEEE ACCESS, (Early Access Article).\
 28\. Do-Hyeon Choi, Chaewon Jo, Hyung-Sub Han, Hyo-Gu Kim, Won-Ho Kim, **<ins>Hyunwoo Kim</ins>**\*, Design of a Six-Phase Surface Permanent-Magnet Synchronous Motor with Chamfer-Shaped Magnet to Reduce Cogging Torque and Torque Ripple for Large-Ship Propulsion, Applied Sciences, vol. 15, no. 21, Oct. 2025.\
 27\. Seong-Hwi Kim, **<ins>Hyunwoo Kim</ins>**, Sung Gu Lee\*, “Design of PM Linear Synchronous Motor with Chamfered Teeth for Reduced Detent Force Considering Modular Connection,” IEEE ACCESS, vol. 13, Aug. 2025.\
 26\. Inyeol Yun, **<ins>Hyunwoo Kim</ins>**, Ju Lee, Sung-Gu Lee\*, “Inter-Turn Fault Diagnosis of Induction Motors Based on Current Vector Pattern Analysis in Stationary Coordinate Frame,” Applied Sciences, vol. 15, no. 15, Jul. 2025.\
