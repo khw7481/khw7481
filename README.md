@@ -60,6 +60,8 @@ Hyunwoo Kim (Member, IEEE) received the B.S., M.S., and Ph.D. degrees in electri
 • Honor Scholarship, Hanyang University, South Korea (Mar. 2013 ~ Jun. 2013)
 
 # Journal Papers (published and accepted) (* : Corresponding author)
+31\. Kangbeen Lee, **<ins>Hyunwoo Kim</ins>**, Junhyuk Im, Suaib Al Sufi, Chanyeop Park, Woongkul Lee, "A Review of Partial Discharge in High-Frequency and High-Speed WBG-Based Electric Drives," IEEE Open Journal of Industry Applications (Early Access Article).\
+30\. Li Liu, Jialiang Dai, Zhaoyi Wang, Chaewon Jo, Ju Lee, Hyunwoo Kim*, "An Improved Computationally Efficient Multi-Vector Model Predictive Current Control for SPMSM Drives," IEEE ACCESS, vol. 13, 2025.\
 29\. Dong-woo Nam, **<ins>Hyunwoo Kim</ins>**, Min-Ki Hong, Won-Ho Kim, Ki-Deok\*, “Resistance Prediction of the Coil Pattern in a PCB Stator Axial Flux Permanent Magnet Synchronous Motor,” IEEE ACCESS, (Early Access Article).\
 28\. Do-Hyeon Choi, Chaewon Jo, Hyung-Sub Han, Hyo-Gu Kim, Won-Ho Kim, **<ins>Hyunwoo Kim</ins>**\*, Design of a Six-Phase Surface Permanent-Magnet Synchronous Motor with Chamfer-Shaped Magnet to Reduce Cogging Torque and Torque Ripple for Large-Ship Propulsion, Applied Sciences, vol. 15, no. 21, Oct. 2025.\
 27\. Seong-Hwi Kim, **<ins>Hyunwoo Kim</ins>**, Sung Gu Lee\*, “Design of PM Linear Synchronous Motor with Chamfered Teeth for Reduced Detent Force Considering Modular Connection,” IEEE ACCESS, vol. 13, Aug. 2025.\
