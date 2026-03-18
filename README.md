@@ -26,6 +26,8 @@ Hyunwoo Kim (Member, IEEE) received the B.S., M.S., and Ph.D. degrees in electri
 &nbsp; - Postdoctoral Research Assistant, Elmore Family School of Electrical and Computer Engineering
 
 # Teaching Experience
+• Purdue University, West Lafayette, USA (Oct. 24, 2025)\
+&nbsp; - Electromechanical Motion Devices, Guest Lecter (Undergraduate) \
 • Hanyang University, Seoul, South Korea (Sep. 2023 ~ Dec. 2023)\
 &nbsp; - Newest Technology and Trend of 3D Printing and Electric Machinery (Graduate) \
 • Hanyang University, Seoul, South Korea (Mar. 2023 ~ Jun. 2023)\
