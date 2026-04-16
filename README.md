@@ -52,6 +52,7 @@ Hyunwoo Kim (Member, IEEE) received the B.S., M.S., and Ph.D. degrees in electri
 &nbsp; - Engineering Mathematics I Tutoring (Undergraduate)
 
 # Honors and Awards
+• IEEE Transactions on Transportation Electrification 2nd Prize Paper Award, USA (Jun. 2026)\
 • Conference Travel Funds, USA (Jan. 2025)\
 • Best Paper Award, The Korean Institute of Electrical Engineers, South Korea (Nov. 2023)\
 • Best Paper Award, Hanyang University, South Korea (Feb. 2022)\
@@ -62,9 +63,10 @@ Hyunwoo Kim (Member, IEEE) received the B.S., M.S., and Ph.D. degrees in electri
 • Honor Scholarship, Hanyang University, South Korea (Mar. 2013 ~ Jun. 2013)
 
 # Journal Papers (published and accepted) (* : Corresponding author)
-31\. Kangbeen Lee, **<ins>Hyunwoo Kim</ins>**\*, Junhyuk Im, Suaib Al Sufi, Chanyeop Park, Woongkul Lee, "A Review of Partial Discharge in High-Frequency and High-Speed WBG-Based Electric Drives," IEEE Open Journal of Industry Applications (Early Access Article).\
+32\. **<ins>Hyunwoo Kim</ins>**, Yuming Yan, Junhyuk Im, Mostafa Fereydoonian, Kangbeen Lee, Avinash Dornala, Ali Halawa, Jae Suk Lee, and Woongkul Lee\*, " Functional Integration of Power Electronics and Electric Machines Enabling High-Power Density Electric Drives," IEEE Transactions on Transportation Electrification (Early Access).\
+31\. Kangbeen Lee, **<ins>Hyunwoo Kim</ins>**\*, Junhyuk Im, Suaib Al Sufi, Chanyeop Park, Woongkul Lee, "A Review of Partial Discharge in High-Frequency and High-Speed WBG-Based Electric Drives," IEEE Open Journal of Industry Applications, vol. 7, pp. 79-89, 2026.\
 30\. Li Liu, Jialiang Dai, Zhaoyi Wang, Chaewon Jo, Ju Lee, **<ins>Hyunwoo Kim</ins>**\*, "An Improved Computationally Efficient Multi-Vector Model Predictive Current Control for SPMSM Drives," IEEE ACCESS, vol. 13, 2025.\
-29\. Dong-woo Nam, **<ins>Hyunwoo Kim</ins>**, Min-Ki Hong, Won-Ho Kim, Ki-Deok\*, “Resistance Prediction of the Coil Pattern in a PCB Stator Axial Flux Permanent Magnet Synchronous Motor,” IEEE ACCESS, (Early Access Article).\
+29\. Dong-woo Nam, **<ins>Hyunwoo Kim</ins>**\*, Min-Ki Hong, Won-Ho Kim, Ki-Deok*, “Resistance Prediction of the Coil Pattern in a PCB Stator Axial Flux Permanent Magnet Synchronous Motor,” IEEE ACCESS, vol. 13, Oct. 2025.\
 28\. Do-Hyeon Choi, Chaewon Jo, Hyung-Sub Han, Hyo-Gu Kim, Won-Ho Kim, **<ins>Hyunwoo Kim</ins>**\*, Design of a Six-Phase Surface Permanent-Magnet Synchronous Motor with Chamfer-Shaped Magnet to Reduce Cogging Torque and Torque Ripple for Large-Ship Propulsion, Applied Sciences, vol. 15, no. 21, Oct. 2025.\
 27\. Seong-Hwi Kim, **<ins>Hyunwoo Kim</ins>**, Sung Gu Lee\*, “Design of PM Linear Synchronous Motor with Chamfered Teeth for Reduced Detent Force Considering Modular Connection,” IEEE ACCESS, vol. 13, Aug. 2025.\
 26\. Inyeol Yun, **<ins>Hyunwoo Kim</ins>**, Ju Lee, Sung-Gu Lee\*, “Inter-Turn Fault Diagnosis of Induction Motors Based on Current Vector Pattern Analysis in Stationary Coordinate Frame,” Applied Sciences, vol. 15, no. 15, Jul. 2025.\
