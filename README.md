@@ -63,6 +63,7 @@ Hyunwoo Kim (Member, IEEE) received the B.S., M.S., and Ph.D. degrees in electri
 • Honor Scholarship, Hanyang University, South Korea (Mar. 2013 ~ Jun. 2013)
 
 # Journal Papers (published and accepted) (* : Corresponding author)
+34\. Jialiang Dai, Zhaoyi Wang, Rongrui Lin, Jungho Ahn, Ju Lee, and **<ins>Hyunwoo Kim</ins>**\*, “Enhanced Speed Control of SPMSMs via Physics-Informed Neural Network-Based Active Disturbance Rejection Control,” IEEE Transactions on Energy Conversion (Early Access)\
 33\. **<ins>Hyunwoo Kim</ins>**\*, "Analysis and Design of Outer Rotor PMSM With Arc- and Rectangular-Shaped Magnets and Stator Pole Shoes for Improving Electromagnetic Performance," Applied Sciences (Early Access).\
 32\. **<ins>Hyunwoo Kim</ins>**, Yuming Yan, Junhyuk Im, Mostafa Fereydoonian, Kangbeen Lee, Avinash Dornala, Ali Halawa, Jae Suk Lee, and Woongkul Lee\*, "Functional Integration of Power Electronics and Electric Machines Enabling High-Power Density Electric Drives," IEEE Transactions on Transportation Electrification (Early Access).\
 31\. Kangbeen Lee, **<ins>Hyunwoo Kim</ins>**\*, Junhyuk Im, Suaib Al Sufi, Chanyeop Park, Woongkul Lee, "A Review of Partial Discharge in High-Frequency and High-Speed WBG-Based Electric Drives," IEEE Open Journal of Industry Applications, vol. 7, pp. 79-89, 2026.\
