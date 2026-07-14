@@ -63,8 +63,10 @@ Hyunwoo Kim (Member, IEEE) received the B.S., M.S., and Ph.D. degrees in electri
 • Honor Scholarship, Hanyang University, South Korea (Mar. 2013 ~ Jun. 2013)
 
 # Journal Papers (published and accepted) (* : Corresponding author)
+36\. JZhaoyi Wang, Jialiang Dai, Chaewon Jo, Li Liu, Ju Lee, and **<ins>Hyunwoo Kim</ins>**\*, “Auxiliary Cascaded ESO-Based Speed Regulation for Model-Free Predictive Current Control in PMSM Drives,” IEEE Transactions on Industry Application (Early Access)\
+35\. Il-Gyou Lee and **<ins>Hyunwoo Kim</ins>**\*, “Investigation of Switching Frequency Effect in Current Harmonic of Slotless Permanent Magnet Synchronous Machine With Voltage Source Inverter,” Applied Sciences, vol. 16, no. 13, Jul. 2026.\
 34\. Jialiang Dai, Zhaoyi Wang, Rongrui Lin, Jungho Ahn, Ju Lee, and **<ins>Hyunwoo Kim</ins>**\*, “Enhanced Speed Control of SPMSMs via Physics-Informed Neural Network-Based Active Disturbance Rejection Control,” IEEE Transactions on Energy Conversion (Early Access)\
-33\. **<ins>Hyunwoo Kim</ins>**\*, "Analysis and Design of Outer Rotor PMSM With Arc- and Rectangular-Shaped Magnets and Stator Pole Shoes for Improving Electromagnetic Performance," Applied Sciences (Early Access).\
+33\. **<ins>Hyunwoo Kim</ins>**\*, "Analysis and Design of Outer Rotor PMSM With Arc- and Rectangular-Shaped Magnets and Stator Pole Shoes for Improving Electromagnetic Performance," Applied Sciences, vol. 16, no. 9, Apr. 2026.\
 32\. **<ins>Hyunwoo Kim</ins>**, Yuming Yan, Junhyuk Im, Mostafa Fereydoonian, Kangbeen Lee, Avinash Dornala, Ali Halawa, Jae Suk Lee, and Woongkul Lee\*, "Functional Integration of Power Electronics and Electric Machines Enabling High-Power Density Electric Drives," IEEE Transactions on Transportation Electrification (Early Access).\
 31\. Kangbeen Lee, **<ins>Hyunwoo Kim</ins>**\*, Junhyuk Im, Suaib Al Sufi, Chanyeop Park, Woongkul Lee, "A Review of Partial Discharge in High-Frequency and High-Speed WBG-Based Electric Drives," IEEE Open Journal of Industry Applications, vol. 7, pp. 79-89, 2026.\
 30\. Li Liu, Jialiang Dai, Zhaoyi Wang, Chaewon Jo, Ju Lee, **<ins>Hyunwoo Kim</ins>**\*, "An Improved Computationally Efficient Multi-Vector Model Predictive Current Control for SPMSM Drives," IEEE ACCESS, vol. 13, 2025.\
