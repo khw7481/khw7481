@@ -62,6 +62,7 @@ Hyunwoo Kim (Member, IEEE) received the B.S., M.S., and Ph.D. degrees in electri
 • Honor Scholarship, Hanyang University, South Korea (Mar. 2013 ~ Jun. 2013)
 
 # Journal Papers (published and accepted) (* : Corresponding author)
+37\. Mostafa Fereydoonian, **<ins>Hyunwoo Kim</ins>**, Avinash Dornala, Juwon Lee, Woongkul Lee*, “Effect of Inductance Phase Shift on Torque Generation of Stator Field-Excited Synchronous Motors with Magnetically Integrated Motor Drives,” IEEE Transactions on Industrial Electronics (Early Access).\
 37\. Junhyuk Im, **<ins>Hyunwoo Kim</ins>**, Mostafa Fereydoonian, Ali Halawa, and Woongkul Lee*, “Current Harmonic Suppression Using Integrated Zero-Sequence Filter in Open-End Winding Motors,” IEEE Transactions on Transportation Electrification (Early Access).\
 36\. Zhaoyi Wang, Jialiang Dai, Chaewon Jo, Li Liu, Ju Lee, and **<ins>Hyunwoo Kim</ins>**\*, “Auxiliary Cascaded ESO-Based Speed Regulation for Model-Free Predictive Current Control in PMSM Drives,” IEEE Transactions on Industry Application (Early Access).\
 35\. Il-Gyou Lee and **<ins>Hyunwoo Kim</ins>**\*, “Investigation of Switching Frequency Effect in Current Harmonic of Slotless Permanent Magnet Synchronous Machine With Voltage Source Inverter,” Applied Sciences, vol. 16, no. 13, Jul. 2026.\
